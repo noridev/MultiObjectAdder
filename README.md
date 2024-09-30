@@ -1,6 +1,6 @@
 # MultiObjectAdder
 ### What is this?
-A script that can add one object to multiple objects at once.
+A utility that allows you to add objects to multiple objects at once.
 
 ### VCC Repository
 https://vpm.noridev.moe/<br>
