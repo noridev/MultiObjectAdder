@@ -1,6 +1,6 @@
 {
   "name": "moe.noridev.multi-object-adder",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "unity": "2019.4",
   "displayName": "NoriDev - MultiObjectAdder",
   "description": "",
@@ -10,7 +10,7 @@
   },
   "url" : "",
   "documentationUrl": "",
-  "changelogUrl": "https://github.com/noridev/MultiObjectAdder/blob/main/CHANGELOG.md",
+  "changelogUrl": "https://github.com/noridev/MultiObjectAdder/blob/develop/CHANGELOG.md",
   "vpmDependencies" : {
     "com.vrchat.avatars" : ">=3.2.0"
   }
