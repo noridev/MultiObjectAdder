@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env:
-  packageName: "moe.noridev.light-limit-changer"
+  packageName: "moe.noridev.multi-object-adder"
 
 permissions:
   contents: write

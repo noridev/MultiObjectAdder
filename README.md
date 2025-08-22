@@ -10,9 +10,3 @@ https://vpm.noridev.moe/<br>
 https://github.com/noridev/MultiObjectAdder/releases
 
 ![image](https://github.com/user-attachments/assets/89422e98-8092-45e3-a4b5-173c141eb96a)
-
-
-
-
-
- 
